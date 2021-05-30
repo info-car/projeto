@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77066572210",
+    "project_id": "infocar-fded4",
+    "storage_bucket": "infocar-fded4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77066572210:android:cffbbf568114b0a857d4ab",
+        "android_client_info": {
+          "package_name": "com.example.infocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77066572210-gqjv97r36eghb1p98i2crl2cb36dgh27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJcZD0RPuecTbM0F6ij-I6QL0kNPf4KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77066572210-gqjv97r36eghb1p98i2crl2cb36dgh27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

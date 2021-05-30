@@ -1,3 +1,9 @@
+/*Projeto final cadeira  PDI
+Desenvolvido por:
+Gonçalo Ferreira
+João Luís
+ */
+
 package com.example.infocar;
 
 import androidx.annotation.NonNull;
